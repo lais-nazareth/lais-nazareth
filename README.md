@@ -1,6 +1,6 @@
 # Lais Nazareth
 
-**`Desenvolvedora Fullstack`**
+**`Desenvolvedora Full-stack`**
 
 Atualmente estou cursando Ciência da Computação na UFF e sou membro do IEEE.
 
