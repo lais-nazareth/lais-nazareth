@@ -1,6 +1,6 @@
 # Lais Nazareth
 
-**`Desenvolvedora Backend`**
+**`Desenvolvedora Back-end`**
 
 Atualmente estou cursando Ciência da Computação na UFF e sou membro do IEEE.
 
